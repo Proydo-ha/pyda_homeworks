@@ -5,3 +5,5 @@ datatypes_cycles_1.ipynb - Домашнее задание «Типы данны
 datatypes_cycles_2.ipynb - Домашнее задание к лекции «Типы данных и циклы. Часть 2»
 
 functions.ipynb - Домашнее задание к лекции "Функции"
+
+pandas.ipynb - Домашнее задание «Библиотека pandas»
