@@ -6,4 +6,4 @@ datatypes_cycles_2.ipynb - Домашнее задание к лекции «Т�
 
 functions.ipynb - Домашнее задание к лекции "Функции"
 
-pandas\pandas.ipynb - Домашнее задание «Библиотека pandas»
+pandas_1.ipynb - Домашнее задание «Библиотека pandas»
